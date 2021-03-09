@@ -5,7 +5,8 @@ I find Tailwind CSS a great framework, that is easy to learn.
 ## About this project
 This project was all about using Tailwind, and what I learned. <br>
 The design I used was a design I did a few years ago during my **Daily UI Challenge**. <br>
-FACES is a clothing brand I used to have, this is one of the designs.
+FACES is a clothing brand I used to have, this is one of the designs. <br>
+You can view it **[here](https://thebeautifultauren.github.io/Tailwind-Practice/dist/)**
 <br><br>
 ***As always, If you got any suggestions/feedback/tips about my code. Feel free to reach out and help me learn!*** :smile:
 <br><br>
