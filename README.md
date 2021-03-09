@@ -1,6 +1,6 @@
 # Tailwind Project
 Hey everyone! New project! <br>
-In this project I wanted totry and practice Tailwind CSS. <br>
+In this project I wanted to try and practice Tailwind CSS. <br>
 I find Tailwind CSS a great framework, that is easy to learn.
 ## About this project
 This project was all about using Tailwind, and what I learned. <br>
